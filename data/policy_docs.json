@@ -1,0 +1,40 @@
+{
+  "documents": [
+    {
+      "doc_id": "billing-01",
+      "section": "copays",
+      "department": "billing",
+      "text": "Patients must pay any required copay at the time of their appointment. The copay amount depends on the insurance plan on file. If the copay is not collected during check in, the billing team will mail an invoice within five business days. Unpaid copay balances older than thirty days may be referred to the clinic billing supervisor for follow up."
+    },
+    {
+      "doc_id": "billing-02",
+      "section": "refunds",
+      "department": "billing",
+      "text": "Refunds for overpayment are issued to the original payment method whenever possible. A refund request is reviewed by the billing team and processed within ten business days. Patients who paid by cash receive a mailed check. Refund questions should be directed to the billing desk during normal clinic hours."
+    },
+    {
+      "doc_id": "scheduling-01",
+      "section": "appointments",
+      "department": "scheduling",
+      "text": "New appointments can be booked by phone or through the patient portal. A confirmation message is sent the day before each appointment. Patients who need to cancel should do so at least twenty four hours in advance to avoid a late cancellation note on their record. Same day appointments are offered based on provider availability."
+    },
+    {
+      "doc_id": "scheduling-02",
+      "section": "cancellations",
+      "department": "scheduling",
+      "text": "A cancellation made with less than twenty four hours notice is recorded as a late cancellation. Three late cancellations in a single year may require a short conversation with the scheduling coordinator. Emergencies are always reviewed with understanding and do not count against the patient."
+    },
+    {
+      "doc_id": "records-01",
+      "section": "access",
+      "department": "records",
+      "text": "Patients may request a copy of their medical records by submitting a signed release form to the records office. Standard requests are fulfilled within fifteen business days. Records can be delivered by secure portal download or by mail. There is no fee for the first copy requested in a calendar year."
+    },
+    {
+      "doc_id": "records-02",
+      "section": "privacy",
+      "department": "records",
+      "text": "Medical records are protected and only shared with people the patient has authorized. Staff must verify identity before releasing any record. Any suspected privacy concern should be reported to the records office so it can be reviewed promptly and documented for the clinic privacy log."
+    }
+  ]
+}
